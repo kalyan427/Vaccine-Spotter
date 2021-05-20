@@ -19,6 +19,7 @@ Telegram link: https://t.me/kalyan0427
 
 Thanks @ Nick for API: https://www.vaccinespotter.org/api/.
 
+Demo App: https://photos.app.goo.gl/STSbb1ZpJP27haRB7
 
 
 
